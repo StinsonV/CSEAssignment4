@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="people.xsd">
+	<person>
+		<firstName>Jane</firstName>
+		<lastName>Doe</lastName>
+		<phone>123-456-7890</phone>
+		<email>jane.doe@example.com</email>
+		<address>
+			<street>123 Main St</street>
+			<city>Tempe</city>
+			<state>AZ</state>
+			<zip>85281</zip>
+		</address>
+	</person>
+	<person>
+		<firstName>John</firstName>
+		<lastName>Smith</lastName>
+		<phone>987-654-3210</phone>
+		<email>john.smith@example.com</email>
+		<address>
+			<street>456 Elm St</street>
+			<city>Phoenix</city>
+			<state>AZ</state>
+			<zip>85001</zip>
+		</address>
+	</person>
+</people>
