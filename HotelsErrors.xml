@@ -4,7 +4,7 @@
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
 		<Name>Westin</Name>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
@@ -14,7 +14,7 @@
 	</Hotel>
 	<Hotel Rating="4.5">
 		<Name>Hilton Garden Inn</Name>
-		<Address NearestAirport="Phoenix Airport">
+		<Address NearstAirport="Phoenix Airport">
 			<Number>100</Number>
 			<Street>Central Ave</Street>
 			<City>Phoenix</City>
@@ -36,7 +36,7 @@
 	<Hotel Rating="4.0">
 		<Phone>602-222-3333</Phone>
 		<Name>Embassy Suites</Name>
-		<Address NearestAirport="Phoenix Airport">
+		<Address NearstAirport="Phoenix Airport">
 			<Number>777</Number>
 			<Street>East Van Buren</Street>
 			<City>Phoenix</City>
@@ -47,7 +47,7 @@
 		<Phone>480-333-5555</Phone>
 		<Name>Marriott</Name>
 		<Name>Extra Name</Name>
-		<Address NearestAirport="Mesa Gateway">
+		<Address NearstAirport="Mesa Gateway">
 			<Number>555</Number>
 			<Street>University Dr</Street>
 			<City>Mesa</City>

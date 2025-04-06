@@ -4,7 +4,7 @@
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
 		<Name>Westin</Name>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
@@ -16,7 +16,7 @@
 		<Phone>602-555-1122</Phone>
 		<Phone>602-555-1133</Phone>
 		<Name>Hilton Garden Inn</Name>
-		<Address NearestAirport="Phoenix Airport">
+		<Address NearstAirport="Phoenix Airport">
 			<Number>100</Number>
 			<Street>Central Ave</Street>
 			<City>Phoenix</City>
@@ -27,7 +27,7 @@
 	<Hotel Rating="3.9">
 		<Phone>602-777-4000</Phone>
 		<Name>Courtyard by Marriott</Name>
-		<Address NearestAirport="Phoenix Sky Harbor">
+		<Address NearstAirport="Phoenix Sky Harbor">
 			<Number>202</Number>
 			<Street>N Central Ave</Street>
 			<City>Phoenix</City>
@@ -38,7 +38,7 @@
 	<Hotel Rating="4.0">
 		<Phone>480-888-9999</Phone>
 		<Name>Hyatt Place</Name>
-		<Address NearestAirport="Mesa Gateway">
+		<Address NearstAirport="Mesa Gateway">
 			<Number>75</Number>
 			<Street>S Mill Ave</Street>
 			<City>Tempe</City>
@@ -50,7 +50,7 @@
 		<Phone>480-555-2345</Phone>
 		<Phone>480-555-3456</Phone>
 		<Name>DoubleTree Suites</Name>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>320</Number>
 			<Street>N 44th St</Street>
 			<City>Phoenix</City>
@@ -61,7 +61,7 @@
 	<Hotel Rating="3.5">
 		<Phone>602-123-9876</Phone>
 		<Name>La Quinta Inn</Name>
-		<Address NearestAirport="Phoenix Airport">
+		<Address NearstAirport="Phoenix Airport">
 			<Number>710</Number>
 			<Street>West Broadway Rd</Street>
 			<City>Tempe</City>
@@ -72,7 +72,7 @@
 	<Hotel Rating="4.1">
 		<Phone>602-555-7788</Phone>
 		<Name>Embassy Suites</Name>
-		<Address NearestAirport="Phoenix Sky Harbor">
+		<Address NearstAirport="Phoenix Sky Harbor">
 			<Number>4415</Number>
 			<Street>E Paradise Village Pkwy</Street>
 			<City>Phoenix</City>
@@ -84,7 +84,7 @@
 		<Phone>480-777-1122</Phone>
 		<Phone>480-777-1133</Phone>
 		<Name>Holiday Inn Express</Name>
-		<Address NearestAirport="Mesa Gateway">
+		<Address NearstAirport="Mesa Gateway">
 			<Number>1520</Number>
 			<Street>S 52nd St</Street>
 			<City>Tempe</City>
@@ -95,7 +95,7 @@
 	<Hotel Rating="4.3">
 		<Phone>480-300-7654</Phone>
 		<Name>Radisson Hotel</Name>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>427</Number>
 			<Street>N 44th St</Street>
 			<City>Phoenix</City>
@@ -107,7 +107,7 @@
 		<Phone>602-900-2222</Phone>
 		<Phone>602-900-2223</Phone>
 		<Name>Sheraton Phoenix Downtown</Name>
-		<Address NearestAirport="Phoenix Sky Harbor">
+		<Address NearstAirport="Phoenix Sky Harbor">
 			<Number>340</Number>
 			<Street>N 3rd St</Street>
 			<City>Phoenix</City>
