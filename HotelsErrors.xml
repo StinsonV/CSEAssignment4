@@ -1,115 +1,127 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Hotel>
+	<Phone>480-968-8885</Phone>
+	<Phone>800-937-8461</Phone>
+	<Name>Westin</Name>
+	<Address>
+		<Number>11</Number>
+		<Street>E.7th St</Street>
+		<City>Tempe</City>
+		<State>AZ</State>
+		<Zip>85281</Zip>
+	</Address>
+	<Rating>4.2</Rating>
+
 	<Hotel>
-		<Name>Westin</Name>
-		<Phone>480-968-8885</Phone>
-		<Phone>800-937-8461</Phone>
-		<Address NearstAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>E.7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-		<Rating>4.2</Rating>
-	</Hotel>
-	<Hotel>
+		<Phone>602-555-1234</Phone>
 		<Name>Marriott</Name>
-		<Phone>602-867-5309</Phone>
-		<Address/>
+		<Address NearstAirport="Phoenix Sky Harbor">
+			<Number>300</Number>
+			<Street>E Camelback Rd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85016</Zip>
+		</Address>
 		<Rating>4.5</Rating>
 	</Hotel>
+
 	<Hotel>
+		<Phone>602-555-5678</Phone>
+		<Phone>602-555-8765</Phone>
 		<Name>Hyatt Regency</Name>
-		<Name>Duplicate Name</Name>
-		<Phone>480-555-1212</Phone>
-		<Phone>480-555-1313</Phone>
-		<Address NearstAirport="Sky Harbor">
+		<Address NearstAirport="Phoenix Sky Harbor">
 			<Number>122</Number>
-			<Street>S Mill Ave</Street>
-			<City>Tempe</City>
+			<Street>N 2nd St</Street>
+			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85281</Zip>
+			<Zip>85004</Zip>
 		</Address>
-		<Rating>4.3</Rating>
+		<Rating>4.0</Rating>
 	</Hotel>
+
 	<Hotel>
 		<Name>Hilton Garden Inn</Name>
-		<Address NearstAirport="Sky Harbor">
-			<Number>730</Number>
-			<Street>E University Dr</Street>
-			<City>Tempe</City>
+		<Address NearstAirport="Phoenix Sky Harbor">
+			<Number>4000</Number>
+			<Street>N Central Ave</Street>
+			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85281</Zip>
+			<Zip>85012</Zip>
 		</Address>
 	</Hotel>
+
 	<Hotel>
+		<Phone>480-555-3344</Phone>
 		<Name>Sheraton</Name>
-		<Phone>480-321-5678</Phone>
 		<Address NearstAirport="Sky Harbor">
-			<Number>100</Number>
-			<Street>W 3rd St</Street>
-			<City>Tempe</City>
+			<Number>340</Number>
+			<Street>N 3rd St</Street>
+			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85281</Zip>
-			<Rating>4.0</Rating>
-		</Hotel>
-	<Hotel>
-		<Name>Residence Inn</Name>
-		<Phone>602-999-1111</Phone>
-		<Address NearstAirport="PHX Airport">
-			<Number>601</Number>
-			<Street>E 5th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-	<Hotel>
-		<Name>Courtyard by Marriott</Name>
-		<Phone>480-321-6789</Phone>
-		<Address NearstAirport="Sky Harbor">
-			<Number>601</Number>
-			<Street>S Ash Ave</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-		<Rating>3.8</Rating>
-	</Hotel>
-	<Hotel>
-		<Name>AC Hotel</Name>
-		<Phone>602-867-1111</Phone>
-		<Address NearstAirport="Sky Harbor">
-			<Number>100</Number>
-			<Street>E Rio Salado Pkwy</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-	<Hotel>
-		<Name>Embassy Suites</Name>
-		<Phone>602-123-4567</Phone>
-		<Address NearstAirport="PHX Airport">
-			<Number>4400</Number>
-			<Street>S Rural Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85282</Zip>
+			<Zip>85004</Zip>
 		</Address>
 		<Rating>4.1</Rating>
 	</Hotel>
+
 	<Hotel>
-		<Name>Tempe Mission Palms</Name>
-		<Phone>480-894-1400</Phone>
+		<Phone>480-555-7788</Phone>
+		<Name>Renaissance</Name>
 		<Address NearstAirport="Sky Harbor">
-			<Number>60</Number>
-			<Street>E 5th St</Street>
-			<City>Tempe</City>
+			<Number>100</Number>
+			<Street>N 1st St</Street>
+			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85281</Zip>
+			<Zip>85004</Zip>
 		</Address>
-		<Rating>4.6</Rating>
 	</Hotel>
+
+	<Hotel>
+		<Phone>480-555-9988</Phone>
+		<Phone>480-555-7789</Phone>
+		<Name>Courtyard</Name>
+		<Address NearstAirport="Sky Harbor">
+			<Number>401</Number>
+			<Street>E Washington St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+		<Rating>3.8</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Phone>602-555-6677</Phone>
+		<Name>Residence Inn</Name>
+		<Address NearstAirport="Phoenix Sky Harbor">
+			<Number>6040</Number>
+			<Street>N 7th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85014</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Phone>623-555-3344</Phone>
+		<Name>Fairfield Inn</Name>
+		<Name>Duplicate Name</Name>
+		<Address NearstAirport="Phoenix Goodyear">
+			<Number>1400</Number>
+			<Street>N Litchfield Rd</Street>
+			<City>Goodyear</City>
+			<State>AZ</State>
+			<Zip>85395</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Phone>480-555-6633</Phone>
+		<Name>Drury Inn</Name>
+		<Address NearstAirport="Sky Harbor">
+			<Number>3333</Number>
+			<Street>E University Dr</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85034</Zip>
+		</Hotel>
 </Hotel>
