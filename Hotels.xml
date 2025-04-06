@@ -1,7 +1,7 @@
 <Hotels xmlns="https://StinsonV.github.io/CSEAssignment4"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="https://StinsonV.github.io/CSEAssignment4 https://StinsonV.github.io/CSEAssignment4/Hotels.xsd">
-
+        xsi:schemaLocation="https://StinsonV.github.io/CSEAssignment4/ Hotels.xsd">
+	<!-- Hotels from around the airport -->
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
