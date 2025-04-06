@@ -1,58 +1,110 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
-	<Hotel Rating="4.2">
-		<Phone>480-968-8885</Phone>
-		<Phone>800-937-8461</Phone>
-		<Name>Westin</Name>
-		<Address NearstAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>E. 7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-	<Hotel Rating="4.5">
-		<Name>Hilton Garden Inn</Name>
-		<Address NearstAirport="Phoenix Airport">
-			<Number>100</Number>
-			<Street>Central Ave</Street>
-			<City>Phoenix</City>
-			<State>AZ</State>
-			<Zip>85004</Zip>
-		</Address>
-	</Hotel>
-	<Hotel>
-		<Phone>480-123-4567</Phone>
-		<Name>Hyatt Place</Name>
-		<Address>
-			<Number>44</Number>
-			<Street>Mill Ave</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85282</Zip>
-		</Address>
-	</Hotel>
-	<Hotel Rating="4.0">
-		<Phone>602-222-3333</Phone>
-		<Name>Embassy Suites</Name>
-		<Address NearstAirport="Phoenix Airport">
-			<Number>777</Number>
-			<Street>East Van Buren</Street>
-			<City>Phoenix</City>
-			<State>AZ</State>
-		</Hotel>
-	<Hotel Rating="3.5">
-		<Phone>480-333-4444</Phone>
-		<Phone>480-333-5555</Phone>
-		<Name>Marriott</Name>
-		<Name>Extra Name</Name>
-		<Address NearstAirport="Mesa Gateway">
-			<Number>555</Number>
-			<Street>University Dr</Street>
-			<City>Mesa</City>
-			<State>AZ</State>
-			<Zip>85201</Zip>
-		</Address>
-	</Hotel>
+<?xml version="1.0" ?>
+<Hotel>
+  <Hotel>
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Rating>4.2</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Marriott</Name>
+    <Phone>602-867-5309</Phone>
+    <Address/>
+    <Rating>4.5</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Hyatt Regency</Name>
+    <Name>Duplicate Name</Name>
+    <Phone>480-555-1212</Phone>
+    <Phone>480-555-1313</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>122</Number>
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Rating>4.3</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Hilton Garden Inn</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>730</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Sheraton</Name>
+    <Phone>480-321-5678</Phone>
+    &lt;Address NearestAirport=&quot;Sky Harbor&quot;&gt;&lt;Number&gt;100&lt;/Number&gt;&lt;Street&gt;W 3rd St&lt;/Street&gt;&lt;City&gt;Tempe&lt;/City&gt;&lt;State&gt;AZ&lt;/State&gt;&lt;Zip&gt;85281&lt;/Zip&gt;
+    <Rating>4.0</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Residence Inn</Name>
+    <Phone>602-999-1111</Phone>
+    <Address NearestAirport="PHX Airport">
+      <Number>601</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Courtyard by Marriott</Name>
+    <Phone>480-321-6789</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>601</Number>
+      <Street>S Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Rating>3.8</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>AC Hotel</Name>
+    <Phone>602-867-1111</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>100</Number>
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Embassy Suites</Name>
+    <Phone>602-123-4567</Phone>
+    <Address NearestAirport="PHX Airport">
+      <Number>4400</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+    <Rating>4.1</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Tempe Mission Palms</Name>
+    <Phone>480-894-1400</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>60</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Rating>4.6</Rating>
+  </Hotel>
 </Hotel>
