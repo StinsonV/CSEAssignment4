@@ -1,63 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Hotel>
-	<Hotel>
-		<Name>Double Trouble Inn</Name>
-		<Phone>602-000-0000</Phone>
-		<Phone>602-000-0001</Phone>
-		<Address>
-			<Number>321</Number>
-			<Street>Main St</Street>
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	<Hotel Rating="4.2">
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Name>Westin</Name>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Hilton Garden Inn</Name>
+		<Address NearestAirport="Phoenix Airport">
+			<Number>100</Number>
+			<Street>Central Ave</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85001</Zip>
+			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
-
 	<Hotel>
-		<Name>Missing Attribute Hotel</Name>
-		<Phone>602-000-1111</Phone>
+		<Phone>480-123-4567</Phone>
+		<Name>Hyatt Place</Name>
 		<Address>
-			<Number>555</Number>
-			<Street>Missing Way</Street>
-			<City>Scottsdale</City>
+			<Number>44</Number>
+			<Street>Mill Ave</Street>
+			<City>Tempe</City>
 			<State>AZ</State>
-			<Zip>85251</Zip>
+			<Zip>85282</Zip>
 		</Address>
 	</Hotel>
-
-	<Hotel>
-		<Name>No Phone Hotel</Name>
-		<Address NearestAirport="Sky Harbor">
+	<Hotel Rating="4.0">
+		<Phone>602-222-3333</Phone>
+		<Name>Embassy Suites</Name>
+		<Address NearestAirport="Phoenix Airport">
 			<Number>777</Number>
-			<Street>No Contact Blvd</Street>
-			<City>Tempe</City>
+			<Street>East Van Buren</Street>
+			<City>Phoenix</City>
 			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-
-	<Hotel>
-		<Name>No Address Closing</Name>
-		<Phone>999-999-9999</Phone>
-		<Address NearestAirport="Sky Harbor">
-			<Number>123</Number>
-			<Street>Broken St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<!-- Missing closing tag for Address -->
 		</Hotel>
-
-	<Hotel>
-		<Name>Hotel One</Name>
-		<Name>Hotel Duplicate</Name>
-		<Phone>999-000-1111</Phone>
-		<Address NearestAirport="Sky Harbor">
-			<Number>999</Number>
-			<Street>Redundant St</Street>
-			<City>Tempe</City>
+	<Hotel Rating="3.5">
+		<Phone>480-333-4444</Phone>
+		<Phone>480-333-5555</Phone>
+		<Name>Marriott</Name>
+		<Name>Extra Name</Name>
+		<Address NearestAirport="Mesa Gateway">
+			<Number>555</Number>
+			<Street>University Dr</Street>
+			<City>Mesa</City>
 			<State>AZ</State>
-			<Zip>85281</Zip>
+			<Zip>85201</Zip>
 		</Address>
 	</Hotel>
 </Hotel>

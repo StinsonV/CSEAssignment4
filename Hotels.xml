@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<HotelList>
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
 	<Hotel Rating="4.2">
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
@@ -24,4 +24,93 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
-</HotelList>
+	<Hotel Rating="3.9">
+		<Phone>480-123-4567</Phone>
+		<Name>Hyatt Place</Name>
+		<Address NearestAirport="Sky Harbor">
+			<Number>44</Number>
+			<Street>Mill Ave</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Phone>602-222-3333</Phone>
+		<Name>Embassy Suites</Name>
+		<Address NearestAirport="Phoenix Airport">
+			<Number>777</Number>
+			<Street>East Van Buren</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85006</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.5">
+		<Phone>480-333-4444</Phone>
+		<Phone>480-333-5555</Phone>
+		<Name>Marriott</Name>
+		<Address NearestAirport="Mesa Gateway">
+			<Number>555</Number>
+			<Street>University Dr</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85201</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.8">
+		<Phone>602-101-2020</Phone>
+		<Name>Ritz Carlton</Name>
+		<Address NearestAirport="Scottsdale Airpark">
+			<Number>1</Number>
+			<Street>Luxury Way</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85260</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Phone>623-111-1111</Phone>
+		<Name>Comfort Inn</Name>
+		<Address NearestAirport="Phoenix Airport">
+			<Number>99</Number>
+			<Street>Thomas Rd</Street>
+			<City>Glendale</City>
+			<State>AZ</State>
+			<Zip>85301</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Phone>520-555-0000</Phone>
+		<Name>Holiday Inn</Name>
+		<Address NearestAirport="Tucson Airport">
+			<Number>33</Number>
+			<Street>Grant Rd</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85716</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Phone>928-666-7777</Phone>
+		<Name>Best Western</Name>
+		<Address NearestAirport="Flagstaff Pulliam">
+			<Number>88</Number>
+			<Street>Route 66</Street>
+			<City>Flagstaff</City>
+			<State>AZ</State>
+			<Zip>86001</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Phone>480-800-8000</Phone>
+		<Name>Four Seasons</Name>
+		<Address NearestAirport="Phoenix Airport">
+			<Number>22</Number>
+			<Street>North Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
