@@ -1,4 +1,7 @@
-<Hotels>
+<Hotels xmlns="https://StinsonV.github.io/CSEAssignment4"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://StinsonV.github.io/CSEAssignment4 https://StinsonV.github.io/CSEAssignment4/Hotels.xsd">
+
 	<Hotel>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
@@ -12,6 +15,7 @@
 		</Address>
 		<Rating>4.2</Rating>
 	</Hotel>
+
 	<Hotel>
 		<Phone>602-555-1234</Phone>
 		<Name>Marriott</Name>
@@ -24,6 +28,7 @@
 		</Address>
 		<Rating>4.5</Rating>
 	</Hotel>
+
 	<Hotel>
 		<Phone>602-555-5678</Phone>
 		<Phone>602-555-8765</Phone>
@@ -37,6 +42,7 @@
 		</Address>
 		<Rating>4.0</Rating>
 	</Hotel>
+
 	<Hotel>
 		<Phone>480-555-1122</Phone>
 		<Name>Hilton Garden Inn</Name>
@@ -48,6 +54,7 @@
 			<Zip>85012</Zip>
 		</Address>
 	</Hotel>
+
 	<Hotel>
 		<Phone>480-555-3344</Phone>
 		<Name>Sheraton</Name>
@@ -60,6 +67,7 @@
 		</Address>
 		<Rating>4.1</Rating>
 	</Hotel>
+
 	<Hotel>
 		<Phone>480-555-7788</Phone>
 		<Name>Renaissance</Name>
@@ -71,6 +79,7 @@
 			<Zip>85004</Zip>
 		</Address>
 	</Hotel>
+
 	<Hotel>
 		<Phone>480-555-9988</Phone>
 		<Phone>480-555-7789</Phone>
@@ -84,6 +93,7 @@
 		</Address>
 		<Rating>3.8</Rating>
 	</Hotel>
+
 	<Hotel>
 		<Phone>602-555-6677</Phone>
 		<Name>Residence Inn</Name>
@@ -95,6 +105,7 @@
 			<Zip>85014</Zip>
 		</Address>
 	</Hotel>
+
 	<Hotel>
 		<Phone>623-555-3344</Phone>
 		<Name>Fairfield Inn</Name>
@@ -106,6 +117,7 @@
 			<Zip>85395</Zip>
 		</Address>
 	</Hotel>
+
 	<Hotel>
 		<Phone>480-555-6633</Phone>
 		<Name>Drury Inn</Name>
@@ -118,4 +130,5 @@
 		</Address>
 		<Rating>4.3</Rating>
 	</Hotel>
+
 </Hotels>
