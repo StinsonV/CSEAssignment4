@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
 	<Hotel>
+		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Name>Westin</Name>
 		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E.7th St</Street>
@@ -14,8 +14,8 @@
 		<Rating>4.2</Rating>
 	</Hotel>
 	<Hotel>
-		<Phone>602-555-1234</Phone>
 		<Name>Marriott</Name>
+		<Phone>602-555-1234</Phone>
 		<Address NearstAirport="Phoenix Sky Harbor">
 			<Number>300</Number>
 			<Street>E Camelback Rd</Street>
@@ -26,9 +26,9 @@
 		<Rating>4.5</Rating>
 	</Hotel>
 	<Hotel>
+		<Name>Hyatt Regency</Name>
 		<Phone>602-555-5678</Phone>
 		<Phone>602-555-8765</Phone>
-		<Name>Hyatt Regency</Name>
 		<Address NearstAirport="Phoenix Sky Harbor">
 			<Number>122</Number>
 			<Street>N 2nd St</Street>
@@ -39,8 +39,8 @@
 		<Rating>4.0</Rating>
 	</Hotel>
 	<Hotel>
-		<Phone>480-555-1122</Phone>
 		<Name>Hilton Garden Inn</Name>
+		<Phone>480-555-1122</Phone>
 		<Address NearstAirport="Phoenix Sky Harbor">
 			<Number>4000</Number>
 			<Street>N Central Ave</Street>
@@ -50,8 +50,8 @@
 		</Address>
 	</Hotel>
 	<Hotel>
-		<Phone>480-555-3344</Phone>
 		<Name>Sheraton</Name>
+		<Phone>480-555-3344</Phone>
 		<Address NearstAirport="Sky Harbor">
 			<Number>340</Number>
 			<Street>N 3rd St</Street>
@@ -62,8 +62,8 @@
 		<Rating>4.1</Rating>
 	</Hotel>
 	<Hotel>
-		<Phone>480-555-7788</Phone>
 		<Name>Renaissance</Name>
+		<Phone>480-555-7788</Phone>
 		<Address NearstAirport="Sky Harbor">
 			<Number>100</Number>
 			<Street>N 1st St</Street>
@@ -73,9 +73,9 @@
 		</Address>
 	</Hotel>
 	<Hotel>
+		<Name>Courtyard</Name>
 		<Phone>480-555-9988</Phone>
 		<Phone>480-555-7789</Phone>
-		<Name>Courtyard</Name>
 		<Address NearstAirport="Sky Harbor">
 			<Number>401</Number>
 			<Street>E Washington St</Street>
@@ -86,8 +86,8 @@
 		<Rating>3.8</Rating>
 	</Hotel>
 	<Hotel>
-		<Phone>602-555-6677</Phone>
 		<Name>Residence Inn</Name>
+		<Phone>602-555-6677</Phone>
 		<Address NearstAirport="Phoenix Sky Harbor">
 			<Number>6040</Number>
 			<Street>N 7th St</Street>
@@ -97,8 +97,8 @@
 		</Address>
 	</Hotel>
 	<Hotel>
-		<Phone>623-555-3344</Phone>
 		<Name>Fairfield Inn</Name>
+		<Phone>623-555-3344</Phone>
 		<Address NearstAirport="Phoenix Goodyear">
 			<Number>1400</Number>
 			<Street>N Litchfield Rd</Street>
@@ -108,8 +108,8 @@
 		</Address>
 	</Hotel>
 	<Hotel>
-		<Phone>480-555-6633</Phone>
 		<Name>Drury Inn</Name>
+		<Phone>480-555-6633</Phone>
 		<Address NearstAirport="Sky Harbor">
 			<Number>3333</Number>
 			<Street>E University Dr</Street>
